@@ -1,2 +1,15 @@
-# LeetCode-Solutions
-This repository contains my LeetCode solutions to track my DSA and interview preparation journey.
+# LeetCode Solutions
+
+This repository contains my LeetCode solutions.
+
+## Languages
+- C++
+- Java
+- Python (if applicable)
+
+## Purpose
+- Practice Data Structures & Algorithms
+- Prepare for coding interviews
+- Track progress consistently
+
+Happy Coding! 🚀
