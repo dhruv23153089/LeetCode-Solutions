@@ -20,6 +20,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0219-contains-duplicate-ii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Hash Table
@@ -58,8 +59,21 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
