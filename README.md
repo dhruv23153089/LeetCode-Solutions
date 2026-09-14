@@ -21,6 +21,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -34,6 +35,7 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -41,6 +43,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +91,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
