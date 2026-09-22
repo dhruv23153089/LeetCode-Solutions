@@ -26,6 +26,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -37,6 +38,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -105,6 +107,7 @@ Happy Coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -133,4 +136,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
