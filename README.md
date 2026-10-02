@@ -87,6 +87,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -156,7 +158,12 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
