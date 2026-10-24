@@ -28,6 +28,7 @@ Happy Coding! 🚀
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@ Happy Coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
