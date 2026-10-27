@@ -22,6 +22,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/dhruv23153089/LeetCode-Solutions/tree/master/0704-binary-search) |
